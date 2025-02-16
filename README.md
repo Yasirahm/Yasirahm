@@ -21,4 +21,4 @@ I'm a passionate developer with a strong foundation in **front-end web developme
 🌍 **Open to collaboration on:** Web & AI projects, startups, and innovative ideas.  
 
 📫 **Let's connect:**  
-[LinkedIn](Yasir Hamid) | [Portfolio](yasirhamid.netlify.app) | [Email](ratherseenu16@gmail.com)  
+[LinkedIn](Yasir Hamid) | [Portfolio](https://yasirhamid.netlify.app/) | [Email](ratherseenu16@gmail.com)  
