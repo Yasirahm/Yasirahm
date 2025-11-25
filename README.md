@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yasirahm
+- 👋 Hi, I’m @Yasir Hamid
 - 👀 I’m interested in web development and artificial intelligence/ machine learning and also i like martial arts
 
 - 🌱 I’m currently learning project contribution and hybrid internship
