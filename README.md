@@ -18,7 +18,7 @@ I'm a passionate developer with a strong foundation in **front-end web developme
 ✔ Develop **a personal AI assistant** for Kashmiri & English voice interaction  
 ✔ Build scalable and impactful **web applications**  
 
-🌍 **Open to collaboration on:** Web & AI projects, startups, and innovative ideas.  
+🌍 **Open to collaboration on:** Web & AI/ML projects, startups, and innovative ideas.  
 
 📫 **Let's connect:**  
-[LinkedIn](Yasir Hamid) | [Portfolio](https://yasirhamid.netlify.app/) | [Email](ratherseenu16@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/yasirhamidrather?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://yasirhamid.netlify.app/) | [Email](ratherseenu16@gmail.com)  
